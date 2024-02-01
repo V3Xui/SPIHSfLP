@@ -9,7 +9,7 @@ Context Diagram of Prototype
 
 List of Components
 
-**Hardware Used	Description**
+**Hardware Used**
 Solar Panel	
 Solar Charge Controller	
 Rechargeable Battery	
