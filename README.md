@@ -23,3 +23,4 @@ Total Dissolved Solids (TDS) sensor
 Liquid Crystal Display (LCD) 16x2 pin	
 Sinotimer	
 
+Feel free to use the codes at your discretion 
